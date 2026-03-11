@@ -14,8 +14,8 @@ Atualmente estou estudando desenvolvimento web e criando projetos para melhorar 
 ## 🚀 Projetos
 
 - Landing Page
-- Lista de Tarefas
 - Site de Restaurante
+- Lista de Tarefas
 - Dashboard
 - Clone de Streaming
 
